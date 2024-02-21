@@ -6,12 +6,43 @@ body {
     width: 94%;
 }
 
+.header {
+    background-color: grey;
+    height: 98%;
+    width: 98%;
+    margin: 20px;
+    padding: 12px;
+    border: solid 1px darkgrey;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.page-bar {
+    background-color:grey;
+    height: 98%;
+    width: 98%;
+    margin: 20px;
+    padding: 12px;
+    border: solid 1px darkgray;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1 {color: black}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {text-decoration: underline;}
 .name {
     height: 98%;
     width: 98%;
     margin: 20px;
     padding: 12px;
     border: 1px solid silver;
+    background-color:  rgb(66, 66, 66);
+    text-transform: uppercase;
 }
 
 .me {
@@ -20,8 +51,8 @@ body {
     margin: 5px;
     padding: 1px;
     border: 1px dashed silver;
-    
 }
+
 .personal-profile {
     height: 98%;
     width: 98%;
@@ -29,7 +60,7 @@ body {
     text-align: left;
     margin: 20px;
     padding: 12px;
-    border: 1px solid silver;        
+    border: 1px solid silver;     
 }
 
 .key-skills {
@@ -78,4 +109,5 @@ footer {
     color: white;
     margin: 20px;
     padding: 12px;
+    font-size: small;
 }

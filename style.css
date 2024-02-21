@@ -1,54 +1,70 @@
 body {
     background-color: rgb(43, 42, 46);
-    color: white
-}
-
-.personal-profile {
+    color: white;
+    text-align: center;
     height: 94%;
     width: 94%;
+}
+
+.name {
+    height: 94%;
+    width: 94%;
+}
+
+.me {
+    height: 40%;
+    width: 40%;
+    margin: 5px;
+    padding: 1px;
+    border: 1px dashed silver;
+    
+}
+.personal-profile {
+    height: 98%;
+    width: 98%;
     background-color: rgb(66, 66, 66);
     text-align: left;
     margin: 20px;
-    padding: 3px;
-    border: 1px solid silver;
+    padding: 12px;
+    border: 1px solid silver;        
 }
 
 .key-skills {
-    height: 94%;
-    width: 94%;
+    height: 98%;
+    width: 98%;
     background-color: rgb(66, 66, 66);
     text-align: left;
     margin: 20px;
-    padding: 3px;
+    padding: 12px;
     border: 1px solid silver;
 }
 
 .education-and-training {
-    height: 94%;
-    width: 94%;
+    height: 98%;
+    width: 98%;
     background-color: rgb(66, 66, 66);
     text-align: left;
     margin: 20px;
-    padding: 3px;
+    padding: 12px;
     border:1px solid silver;
 }
 
 .work-experience {
-    height: 94%;
-    width: 94%;
+    height: 98%;
+    width: 98%;
     background-color: rgb(66, 66, 66);
     text-align: left;
     margin: 20px;
-    padding: 3px;
+    padding: 12px;
     border: 1px solid silver;
 }
 .employment-history {
-    height: 94%;
-    width: 94%;
+    height: 98%;
+    width: 98%;
     background-color: rgb(66, 66, 66);
     text-align: left;
     margin: 20px;
-    padding: 3px;
+    padding: 12px;
     border: 1px solid silver;
 } 
 h2 { text-align: center;}
